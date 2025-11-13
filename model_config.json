@@ -1,5 +1,5 @@
 {
-  "model_name": "yolo10n.pt",
+  "model_name": "yolov10n.pt",
   "translate_name": "coco.csv",
   "font_file": "Geoform.ttf"
 }
